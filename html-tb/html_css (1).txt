@@ -1,0 +1,35 @@
+
+translate - переводить
+hexagon - шестиугольник
+submit-представлять на рассмотрение
+local storage-локальное хранилище
+origin - источник
+
+autocomplete-автозаполнение
+fieldset-набор полей
+required-необходимый, обязательный
+placeholder-заполнитель
+search-поиск 
+range-диапазон
+
+overlay - наложение
+shape - форма
+overflow - переполнение
+scale - шкала
+skew - перекос
+
+rect - прямой
+repeat - повторять
+background - фон
+initial - исходный
+bottom - нижний
+scroll - прокрутка
+clip - обрезать
+outline - контур
+
+    border-image-source
+source - источник
+
+    border-image-slice
+slice - кусочек
+fill - заполнение

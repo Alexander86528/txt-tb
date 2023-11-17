@@ -1,0 +1,45 @@
+
+fieldset-набор полей
+submit-представлять на рассмотрение
+required-необходимый, обязательный
+search-поиск 
+week-неделя
+month-месяц
+range-диапазон
+placeholder-заполнитель
+autocomplete-автозаполнение
+local storage-локальное хранилище
+
+overlay - наложение
+shape - форма
+hexagon - шестиугольник
+overflow - переполнение
+
+translate - переводить
+scale - шкала
+skew - перекос
+origin - источник
+
+rect - прямой
+
+shadow - тень
+property - свойство
+
+SVG (Scalable Vector Graphics) - маштабируемая векторная графика
+PNG (portable network graphics) - портативная сетевая графика
+
+back - назад
+repeat - повторять
+background - фон
+initial - исходный
+bottom - нижний
+scroll - прокрутка
+clip - обрезать
+outline - контур
+
+    border-image-source
+source - источник
+
+    border-image-slice
+slice - кусочек
+fill - заполнение
