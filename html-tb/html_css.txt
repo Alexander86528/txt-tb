@@ -43,3 +43,5 @@ source - источник
     border-image-slice
 slice - кусочек
 fill - заполнение
+    text-decoration
+line-through - Линия, проходящая через
