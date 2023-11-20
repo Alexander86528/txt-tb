@@ -45,3 +45,6 @@ slice - кусочек
 fill - заполнение
     text-decoration
 line-through - Линия, проходящая через
+    box-sizing
+box-sizing: content-box; (по-умолчанию);
+box-sizing: border-box; изменяет алгоритм расчёта ширины, задаёт общую ширину. 
